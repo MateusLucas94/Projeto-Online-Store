@@ -1,0 +1,13 @@
+.Product {
+  height: 20%;
+  width: 20%;
+}
+
+.Product img {
+  max-width: 50%;
+}
+
+.Products {
+  display: flex;
+  flex-wrap: wrap;
+}
